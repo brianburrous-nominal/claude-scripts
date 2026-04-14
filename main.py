@@ -7,7 +7,7 @@ from datetime import datetime
 from nominal.core import NominalClient
 
 # ---- Configuration ----
-DATASET_RID = "YOUR_DATASET_RID"
+DATASET_RID = "ri.catalog.cerulean-staging.dataset.61aa6048-4ae6-4e4b-8a34-40df8b112fab"
 PROFILE_NAME = "default"
 CHANNEL_NAME = "logs"
 
